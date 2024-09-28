@@ -1,1 +1,1 @@
-# logica-de-programacao
+#  Estudos para aprimorar minha lógica em programação
