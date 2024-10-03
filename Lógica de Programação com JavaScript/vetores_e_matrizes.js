@@ -20,3 +20,5 @@ let consegueComprar = (moedasColetadas >=100) && (item === "Peitoral de Aço"
 )
 
 console.log(consegueComprar)
+
+// prática com vetores e matrizes

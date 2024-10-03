@@ -9,3 +9,4 @@ console.log("O usuario está barrado ? " + ehCpfBloqueado)
 // == é para comparar o valor
 // === é para comparar o valor e o formato do conteúdo
 //!== é diferente
+//
